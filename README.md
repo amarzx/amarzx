@@ -1,4 +1,4 @@
-Boring | learning python | in da future I think I would learn js and c
+Boring | learning python | in the future I think I would learn js and c
 
 <!---
 amarzx/amarzx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
